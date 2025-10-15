@@ -1,0 +1,368 @@
+{
+  "Recipes": [
+    {
+      "name": "breakfast wrap",
+      "ingredients": ["bell pepper", "mushrooms", "spinach", "paprika", "eggs", "wrap", "parsley"],
+      "instructions link": "https://www.bbc.co.uk/food/recipes/easy_breakfast_wrap_51903",
+      "macros": {
+        "calories": 405,
+        "protein": 27,
+        "carbs": 30,
+        "fat": 19
+      }
+    },
+    {
+      "name": "One-pan eggs with tomatoes, peppers and yoghurt",
+      "ingredients": ["pepper", "chillies", "canned chopped tomatoes", "eggs", "parsley", "yoghurt"],
+      "instructions link": "https://www.bbcgoodfood.com/recipes/turkish-one-pan-eggs-peppers-menemen",
+      "macros": {
+        "calories": 222,
+        "protein": 12,
+        "carbs": 12,
+        "fat": 15
+      }
+    },
+    {
+    "name": "Mushroom & basil omelette with smashed tomato",
+    "ingredients": ["tomatoes", "eggs", "chives", "mushrooms", "unsalted butter", "low-fat cream cheese", "basil leaves"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/mushroom-basil-omelette-smashed-tomato",
+    "macros": {
+    "calories": 196,
+    "protein": 14,
+    "carbs": 4,
+    "fat": 14
+      }
+    },
+    {
+    "name": "Protein pancakes with banana",
+    "ingredients": ["eggs", "oats", "banana", "protein powder", "baking powder", "ground cinnamon"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/protein-pancakes-with-banana",
+    "macros": {
+    "calories": 400,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 14
+      }
+    },
+    {
+    "name": "Porridge with blueberry compote",
+    "ingredients": ["oats", "greek yoghurt", "frozen blueberries", "honey"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/porridge-blueberry-compote",
+    "macros": {
+    "calories": 214,
+    "protein": 13,
+    "carbs": 35,
+    "fat": 4
+      }
+    },
+    {
+    "name": "Avocado Toast with Eggs",
+    "ingredients": ["bread", "avocado", "eggs"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/avocado-toast-eggs",
+    "macros": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 26,
+    "fat": 15
+      }
+    },
+    {
+    "name": "Greek Yogurt with Honey and Nuts",
+    "ingredients": ["greek yogurt", "honey", "mixed nuts", "cinnamon"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/greek-yogurt-honey-walnuts",
+    "macros": {
+      "calories": 310,
+      "protein": 17,
+      "carbs": 22,
+      "fat": 18
+      }
+    },
+    {
+    "name": "Banana Oat Pancakes",
+    "ingredients": ["banana", "rolled oats", "egg", "baking powder"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/banana-oat-pancakes",
+    "macros": {
+      "calories": 250,
+      "protein": 10,
+      "carbs": 36,
+      "fat": 8
+      }
+    },
+    {
+    "name": "Peanut Butter Banana Smoothie",
+    "ingredients": ["banana", "peanut butter", "honey"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/peanut-butter-banana-smoothie",
+    "macros": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 14
+      }
+    },
+    {
+    "name": "Berry Overnight Oats",
+    "ingredients": ["rolled oats", "chia seeds", "frozen berries", "honey"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/overnight-oats",
+    "macros": {
+      "calories": 280,
+      "protein": 11,
+      "carbs": 42,
+      "fat": 7
+      }
+    },
+    {
+    "name": "Cottage Cheese with Pineapple",
+    "ingredients": ["cottage cheese", "pineapple chunks", "chia seeds"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/cottage-cheese-pineapple",
+    "macros": {
+      "calories": 190,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 5
+      }
+    },
+    {
+    "name": "Egg and Spinach Wrap",
+    "ingredients": ["whole wheat wrap", "egg", "spinach", "cheddar cheese"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/spinach-egg-wrap",
+    "macros": {
+      "calories": 310,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14
+      }
+    },
+    {
+    "name": "Chia Seed Pudding with Mango",
+    "ingredients": ["chia seeds", "mango", "maple syrup"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/chia-pudding",
+    "macros": {
+      "calories": 230,
+      "protein": 8,
+      "carbs": 27,
+      "fat": 10
+      }
+    },
+    {
+    "name": "Spicy Moroccan Eggs",
+    "ingredients": ["rapeseed oil", "rose harissa", "vegetable stock", "canned chickpeas", "canned tomatoes", "courgettes", "baby spinach", "eggs"],
+    "instructions link": "https://www.bbcgoodfood.com/recipes/spicy-moroccan-eggs",
+    "macros": {
+      "calories": 242,
+      "protein": 16,
+      "carbs": 22,
+      "fat": 10
+      }
+    },
+    {
+    "name": "Chicken and Veg rice bowl",
+    "ingredients": ["chicken thigh", "rice", "peppers", "chilli"],
+    "instructions link": "1. Preheat oven to 200C, 2. toss chicken with oil and seasoning, 3. roast ~30 min, 4. roast veg in oven too ~ 25 min - with oil and salt, 5.cook rice, divide into 5 containers (~100g each), 6. add chicken and veg to containers",
+    "macros": {
+      "calories": 450,
+      "protein": 40,
+      "carbs": 50,
+      "fat": 10
+      }
+    },
+    {
+    "name": "Lentil and beef bolognese Soup",
+    "ingredients": ["lean mince beef", "red lentils", "tomatos", "celery", "beef stock"],
+    "instructions link": "1. fry onion, carrot, celery - 5 mins, 2. add mince, cook until brown, 3. stir lentils, tomatoes, stock + herbs, 4. simmer for 25-30 mins until lentils soft, 5. divide into 5 containers",
+    "macros": {
+      "calories": 400,
+      "protein": 35,
+      "carbs": 35,
+      "fat": 12
+      }
+    },
+    {
+    "name": "prawn and couscous salad bowl",
+    "ingredients": ["prawns", "couscous", "cucumber", "cherry tomatos"],
+    "instructions link": "1. couscous + 450ml boiling water, cover 5 mins, fluff with work, 2. fry prawns with garlic, lemon juice, and seasoning, 3. mix everything together + split into 5 boxes",
+    "macros": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 9
+      }
+    },
+    {
+    "name": "chicken meatball and vegetable stew",
+    "ingredients": ["chicken mince", "eggs", "carrot", "celery sticks", "potatoes", "spinach", "chicken stock"],
+    "instructions link": "1. Mix mince, egg, breadcrumbs, garlic, onion powder, 2.  Roll into ~20 small meatballs, 3. fry meatballs until browned, 4. add carrots, celery + stock. Simmer 20 mins, 5. add spinache at the end and divide into 5 boxes",
+    "macros": {
+      "calories": 430,
+      "protein": 42,
+      "carbs": 40,
+      "fat": 10
+      }
+    },
+    {
+    "name": "Tofu stir fry with rice",
+    "ingredients": ["firm tofu", "rice", "vegetables", "soy sauce", "sesame oil"],
+    "instructions link": "1. cook rice, 2. cube tofu, pan fry - add garlic, ginger and soy sauce, 3. stir fry veg 5-7 mins and combine with tofu, 4. place on rice, drizzle sesame oil",
+    "macros": {
+      "calories": 440,
+      "protein": 35,
+      "carbs": 50,
+      "fat": 12
+      }
+    },
+    {
+    "name": "Salmon and veg soup",
+    "ingredients": ["salmon fillets", "leeks", "carrots", "potatoes", "vegetable stock"],
+    "instructions link": "1. Fry leeks + carrots in olive oil 5 min, 2. Add potatoes + stock, simmer 15 to 20 min, 3. Add salmon chunks, simmer gently 5 min until cooked, 4. Season with dill, divide into 5.",
+    "macros": {
+      "calories": 420,
+      "protein": 40,
+      "carbs": 35,
+      "fat": 13
+      }
+    },
+    {
+    "name": "Chicken wraps",
+    "ingredients": ["chicken breast", "whole wheat wrap", "hummus", "cucumber", "tomatoes", "lettuce"],
+    "instructions link": "1. Fry chicken strips with olive oil + salt + paprika, 2. Spread hummus on each tortilla, add salad and chicken, 3. Roll into wraps, foil-wrap for storage.",
+    "macros": {
+      "calories": 430,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 10
+      }
+    },
+    {
+    "name": "beef and veg stir fry",
+    "ingredients": ["beef chuck", "udon noodles", "pak choi", "mushrooms", "soy sauce", "oyster sauce"],
+    "instructions link": "1. Cook rice noodles according to packet, 2 Stir-fry beef strips in oil until browned, 3. Add garlic, mushrooms, pak choi, cook 5 min, 4. Stir in sauces + noodles. Divide into 5",
+    "macros": {
+      "calories": 450,
+      "protein": 40,
+      "carbs": 45,
+      "fat": 12
+      }
+    },
+    {
+    "name": "Air Fryer Buffalo Chicken Wings",
+    "ingredients": ["chicken wings", "baking powder", "honey", "buffalo sauce"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/air-fryer-buffalo-chicken-wings/",
+    "macros": {
+      "calories": 243,
+      "protein": 20,
+      "carbs": 7,
+      "fat": 16
+      }
+    },
+    {
+      "name": "Chicken With Couscous",
+      "ingredients": ["curry paste", "mango chutney", "chicken breast", "couscous", "vegetable stock"],
+      "instructions link": "https://www.myprotein.com/thezone/recipe/spicy-chicken-with-couscous-macro-balanced-meals/",
+      "macros":{
+        "calories": 508,
+        "protein": 66,
+        "carbs": 39,
+        "fat": 20
+        
+      }
+    },
+    {
+    "name": "Chicken burrito bowl",
+    "ingredients": ["chicken breast", "paprika", "canned black beans", "salsa", "brown rice"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/naked-chicken-burrito-bowl-meal-prep/",
+    "macros": {
+      "calories": 378,
+      "protein": 30,
+      "carbs": 35,
+      "fat": 8
+      }
+    },
+    {
+    "name": "Zingy chicken burger",
+    "ingredients": ["tortilla chips", "chicken breast", "egg", "cornflour", "burger buns", "lettuce", "tomatoes"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/zingy-chicken-burger-fakeaway-recipes/",
+    "macros": {
+      "calories": 468,
+      "protein": 60,
+      "carbs": 49,
+      "fat": 12
+      }
+    },
+    {
+    "name": "Tuna pasta salad",
+    "ingredients": ["pasta", "canned tuna", "sweetcorn", "carrots", "pepper"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/easy-pasta-salad-meal-prep-recipe/",
+    "macros": {
+      "calories": 415,
+      "protein": 26,
+      "carbs": 40,
+      "fat": 20
+      }
+    },
+    {
+    "name": "Salmon poke bowl",
+    "ingredients": ["mayonnaise", "sriracha", "soy sauce", "sesame oil", "honey", "salmon fillets", "carrot", "cucumber", "spring onion", "avocado", "sushi rice", "shallots", "coconut oil", "sesame seeds"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/salmon-poke-bowl-recipe-high-protein-meal-prep/",
+    "macros": {
+      "calories": 552,
+      "protein": 24,
+      "carbs": 70,
+      "fat": 19
+      }
+    },
+    {
+    "name": "crispy sriracha prawns with rice",
+    "ingredients": ["rice", "mayonnaise", "sriracha", "sweet chilli sauce", "cornflour", "plain flour", "sparkling water", "broccoli", "prawns", "spring onion", "chillies"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/crispy-sriracha-prawns-with-black-rice/",
+    "macros": {
+      "calories": 520,
+      "protein": 49,
+      "carbs": 72,
+      "fat": 15
+      }
+    },
+    {
+    "name": "Creamy sausage pasta",
+    "ingredients": ["coconut oil", "leeks", "sausages", "cottage cheese", "tomatoes", "pasta"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/healthy-pasta-recipes-sausage-pasta/",
+    "macros": {
+      "calories": 415,
+      "protein": 34,
+      "carbs": 48,
+      "fat": 5
+      }
+    },
+    {
+    "name": "Beef ramen noodles",
+    "ingredients": ["coconut oil", "spring onion", "beef stock", "soy sauce", "fish sauce", "five spice", "pak choi", "noodles", "sirloin steak", "eggs"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/beef-ramen-noodles-high-protein/",
+    "macros": {
+      "calories": 482,
+      "protein": 26,
+      "carbs": 61,
+      "fat": 15
+      }
+    },
+    {
+    "name": "Beef crunch wraps",
+    "ingredients": ["coconut oil", "lean mince beef", "taco seasoning", "cheddar", "mozzarella", "salsa", "sour cream", "jalapenos", "tomatoes", "lettuce", "whole wheat wrap"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/homemade-beef-crunch-wraps-fakeaway/",
+    "macros": {
+      "calories": 467,
+      "protein": 32,
+      "carbs": 37,
+      "fat": 20
+      }
+    },
+    {
+    "name": "Meatball chilli con carne",
+    "ingredients": ["soy sauce", "sesame oil", "lean beef", "gochujang", "mayonnaise", "spring onion", "carrot", "lettuce", "plain flour", "greek yoghurt"],
+    "instructions link": "https://www.myprotein.com/thezone/recipe/spicy-korean-beef-wraps/",
+    "macros": {
+      "calories": 750,
+      "protein": 70,
+      "carbs": 105,
+      "fat": 30
+      }
+    }
+  ]
+}
